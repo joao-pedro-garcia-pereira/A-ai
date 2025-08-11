@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(104, 0, 165);
+}
+#titulo{
+    background-color: rgb(195, 0, 225);
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: larger;
+    border: 2px dotted ;
+
+}
+.dados{
+    border: 2px solid yellow;
+    color: white;
+}
+.dadosPe{
+    background-color: white;
+    border-radius: 8px;
+    width: 80%;
+}
+.lista{
+    background-color: white;
+    width: 55%;
+}
+option{
+    background-color: white;
+}
+#texto{
+    background-color: white;
+}
+.but{
+    color: white;
+    background-color: rgb(202, 0, 228);
+    border: 1px solid;
+    border-radius: 5px;
+}
