@@ -4,6 +4,12 @@
 #titulo{
     background-color: rgb(195, 0, 225);
 }
+body{
+    background-image: url("_img/pngwing.com.png");
+    background-repeat: no-repeat;
+    background-position-x: right ;
+    background-attachment: fixed;
+}
 h1{
     text-align: center;
     color: yellow;
